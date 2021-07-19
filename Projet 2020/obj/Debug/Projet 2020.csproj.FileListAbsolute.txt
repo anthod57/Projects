@@ -1,0 +1,19 @@
+U:\Visual Studio\Projet 2020\Projet 2020\bin\Debug\Projet 2020.exe.config
+U:\Visual Studio\Projet 2020\Projet 2020\bin\Debug\Projet 2020.exe
+U:\Visual Studio\Projet 2020\Projet 2020\bin\Debug\Projet 2020.pdb
+U:\Visual Studio\Projet 2020\Projet 2020\obj\Debug\Projet 2020.csprojAssemblyReference.cache
+U:\Visual Studio\Projet 2020\Projet 2020\obj\Debug\Projet_2020.Form1.resources
+U:\Visual Studio\Projet 2020\Projet 2020\obj\Debug\Projet_2020.Properties.Resources.resources
+U:\Visual Studio\Projet 2020\Projet 2020\obj\Debug\Projet 2020.csproj.GenerateResource.cache
+U:\Visual Studio\Projet 2020\Projet 2020\obj\Debug\Projet 2020.exe
+U:\Visual Studio\Projet 2020\Projet 2020\obj\Debug\Projet 2020.pdb
+C:\Users\diiab\source\repos\Projet 2020\Projet 2020\bin\Debug\Projet 2020.exe.config
+C:\Users\diiab\source\repos\Projet 2020\Projet 2020\bin\Debug\Projet 2020.exe
+C:\Users\diiab\source\repos\Projet 2020\Projet 2020\bin\Debug\Projet 2020.pdb
+C:\Users\diiab\source\repos\Projet 2020\Projet 2020\obj\Debug\Projet 2020.csprojResolveAssemblyReference.cache
+C:\Users\diiab\source\repos\Projet 2020\Projet 2020\obj\Debug\Projet_2020.Form1.resources
+C:\Users\diiab\source\repos\Projet 2020\Projet 2020\obj\Debug\Projet_2020.Properties.Resources.resources
+C:\Users\diiab\source\repos\Projet 2020\Projet 2020\obj\Debug\Projet 2020.csproj.GenerateResource.Cache
+C:\Users\diiab\source\repos\Projet 2020\Projet 2020\obj\Debug\Projet 2020.csproj.CoreCompileInputs.cache
+C:\Users\diiab\source\repos\Projet 2020\Projet 2020\obj\Debug\Projet 2020.exe
+C:\Users\diiab\source\repos\Projet 2020\Projet 2020\obj\Debug\Projet 2020.pdb
