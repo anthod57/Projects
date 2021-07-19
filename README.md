@@ -2,4 +2,4 @@ Programme permettant de récupérer des données de différents capteurs (tempé
 
 Les données sont ensuite affichées sur une interface.
 
-![Screenshot](UI.png)
+![Screenshot](UI.PNG)
